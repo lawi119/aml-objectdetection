@@ -27,6 +27,6 @@
 
 ![Screenshot 2022-09-20 201812](https://user-images.githubusercontent.com/62900532/191387266-a0cc9ef8-6380-4c09-91ac-58f60d4f7894.png)
 
-8. Import it into your AML workspace and update the pretrained_weights path to point to the new location.
+8. Import it into your AML workspace and update the pretrained path to point to the new location.
 
 ![Screenshot 2022-09-20 202936](https://user-images.githubusercontent.com/62900532/191388176-8f4a62d8-d7eb-4d2e-acb0-22372c358d60.png)
