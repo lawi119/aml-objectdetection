@@ -30,3 +30,13 @@
 8. Import it into your AML workspace and update the pretrained path to point to the new location.
 
 ![Screenshot 2022-09-20 202936](https://user-images.githubusercontent.com/62900532/191388176-8f4a62d8-d7eb-4d2e-acb0-22372c358d60.png)
+
+### Register your dataset as a AML data asset
+
+1. Go to the Data section. Click Create->From datastore.
+
+![image](https://user-images.githubusercontent.com/62900532/191390389-066db652-d048-482a-b45e-b041a8836ed4.png)
+
+2. File in a name and dataset type->file.
+
+![Screenshot 2022-09-20 205445](https://user-images.githubusercontent.com/62900532/191390551-f25f552f-048c-45a2-b09d-152049d1e3c1.png)
