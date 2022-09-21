@@ -1,9 +1,9 @@
 ## Train an Object Detection Model in Azure Machine Learning
 
 ### Prepare object detection codebase
-1. Download codebase locally: https://github.com/open-mmlab/mmdetection
+1. Download codebase locally (e.g. https://github.com/open-mmlab/mmdetection).
 
-2. Upload it to your workspace
+2. Upload the codebase to your worspace.
 
 ![Screenshot 2022-09-20 203344](https://user-images.githubusercontent.com/62900532/191388864-137e8ac5-ff33-443d-a2e7-e3d36a94a23e.png)
 
